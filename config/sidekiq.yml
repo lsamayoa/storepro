@@ -1,0 +1,7 @@
+:concurrency: 15
+:queues:
+  - [default, 1]
+  - [high_priority, 2]
+  - [mailers, 1]
+  - [schedules, 1]
+:daemon: false

@@ -37,6 +37,8 @@ gem 'money-rails'
 
 gem 'activemerchant'
 
+gem 'sidekiq'
+
 gem 'rollbar'
 group :production do
   gem 'rails_12factor'
